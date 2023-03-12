@@ -7,4 +7,4 @@ To Build logic in JavaScript.
 Solve 50 JavaScript questions.
 New question unlocks everyday till New Years Eve.
 
-You Can Join Challenge From Here : "https://codedamn.com/learn/50-days-of-js"
+Want to Join Challenge : <a href="https://codedamn.com/learn/50-days-of-js" target="_blank">Click Here </a>
